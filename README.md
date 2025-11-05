@@ -4,7 +4,7 @@ A Flask web application that uses a fine-tuned EfficientNetB3 model to classify 
 
 This project was developed as the final report for the "Deep Learning Theory and Applications" course at Ho Chi Minh City University of Technology and Education.
 
-## ✨ Features
+##  Features
 * **Image Upload**: Simple UI to upload an image for classification.
 * **AI Recognition**: Analyzes the image using a trained EfficientNetB3 model.
 * **Bilingual Results**: Returns the weed's name in both English and Vietnamese.
@@ -20,13 +20,18 @@ Below are screenshots of the application in action:
 ### Result Page
 ![z7193506891078_705ac611084dee3fa08c5a2e8e3c57c6](https://github.com/user-attachments/assets/dea78fc0-3881-4150-9e59-0985e2a7cc6b)
 
-## 🚀 Tech Stack
+Kaggle Notebook
+The complete model training, fine-tuning, and evaluation process was conducted in a Kaggle notebook.
+
+You can view the full notebook here: [DeepWeeds - EfficientNetB3 Training](https://www.kaggle.com/code/trmanhinhngc/deepweeds-efficientnetb3?scriptVersionId=268674068)
+
+## Tech Stack
 * **Backend**: Flask
 * **Deep Learning**: TensorFlow 2.x, Keras
 * **Frontend**: HTML, CSS (for the demo interface)
 * **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 
-## 🤖 Model Details
+## Model Details
 ### 1. Dataset
 * **Name**: [DeepWeeds](https://github.com/AlexOlsen/DeepWeeds)
 * **Subset Used**: The model was trained on `train_subset0.csv` (10,501 images) and validated on `val_subset0.csv` (3,501 images).
