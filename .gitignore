@@ -1,0 +1,20 @@
+# Thư mục cache của Python
+__pycache__/
+*.pyc
+
+# Môi trường ảo
+venv/
+env/
+*.env
+
+# Thư mục chứa ảnh tải lên tạm thời
+uploads/
+
+# File hệ điều hành/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Bỏ qua các file model của Keras
+*.keras
