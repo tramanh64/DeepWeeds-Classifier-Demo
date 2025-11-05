@@ -14,14 +14,11 @@ This project was developed as the final report for the "Deep Learning Theory and
 Below are screenshots of the application in action:
 
 ### Upload Page
-![Upload Page](![z7193506890122_d90459d12050959b393a53ffc2428400](https://github.com/user-attachments/assets/2f3c8ccf-7931-43cc-a2f5-3f684c2b005c)
-)  
-*(Users can upload or drag an image of a weed for identification.)*
+
+![z7193506890122_d90459d12050959b393a53ffc2428400](https://github.com/user-attachments/assets/03c99bd4-e1be-4d4b-a6fb-021049d13dd7)
 
 ### Result Page
-![Result Page](![z7193506891078_705ac611084dee3fa08c5a2e8e3c57c6](https://github.com/user-attachments/assets/f28cbd2e-df99-4d6e-9935-600733e0694a)
-)  
-*(Example result showing "Chinese apple" (Táo dại châu Phi) with 67.09% confidence, along with useful information.)*
+![z7193506891078_705ac611084dee3fa08c5a2e8e3c57c6](https://github.com/user-attachments/assets/dea78fc0-3881-4150-9e59-0985e2a7cc6b)
 
 ## 🚀 Tech Stack
 * **Backend**: Flask
